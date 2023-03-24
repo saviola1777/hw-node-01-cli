@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://saviola1777/hw-node-01-cli.git"
-},
+  },
   "keywords": [],
   "author": "Sasha Drahanchuk",
   "license": "ISC",
@@ -24,6 +24,7 @@
   "homepage": "https://saviola1777/hw-node-01-cli#readme",
   "devDependencies": {
     "jest": "^29.5.0",
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "prettier": "2.8.7"
   }
 }
